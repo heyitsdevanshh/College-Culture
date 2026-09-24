@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix CollegeCulture",
+  "description": "Connect, Learn, and Grow with your college community. Login with Google or GitHub, build your profile, and explore student feeds, hackathons, and tech news.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
